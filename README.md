@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Inacio04
+- 👀 I’m interested in game development and coding.
+- 🌱 I’m currently learning GML 
+- 💞️ I’m looking to collaborate on game dev projects, especially 2D games!
+- 📫 How to reach me on Discord: inacioejorge
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm zero
